@@ -1,0 +1,2 @@
+#!/bin/bash
+The sky is bright and the hoeizon is promising. God is surely still saying something
